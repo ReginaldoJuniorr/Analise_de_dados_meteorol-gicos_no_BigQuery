@@ -45,4 +45,4 @@ Nesse cenário, proposto pelo curso **Analisar os dados para responder às pergu
 |1      |68.74   |
 
 ---
->OBS: O código escrito para a consulta está no arquivo
+>OBS: O código escrito para a consulta está no [arquivo](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery/blob/main/codigo_da_consulta_avg_max_wind)
