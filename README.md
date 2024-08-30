@@ -25,7 +25,7 @@ Nesse cenário, proposto pelo curso **Analisar os dados para responder às pergu
 |744860|2023-12-27|43.2|4.0|0.0|
 
 ---
-> OBS: Trouxe somente as 10 primeiras linhas, a tabela completa estará em arquivo.
+> OBS: Trouxe somente as 10 primeiras linhas, a tabela completa estará no arquivo.
 
 ## Os meteorologistas também fizeram algumas perguntas enquanto se preparavam para as notícias da noite: eles gostariam de saber a temperatura média de junho de 2023 e a velocidade média do vento de dezembro de 2023.
 
