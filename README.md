@@ -2,7 +2,8 @@
 
 Nesse cenário, proposto pelo curso **Analisar os dados para responder às perguntas** da trilha **Certificado Profissional Google Data Analytics** fui o analista de dados de uma estação de notícias local. Recebi a tarefa de responder a perguntas para meteorologistas sobre o clima. Trabalhei com dados públicos da Administração Nacional Oceânica e Atmosférica (NOAA, na sigla em inglês), que possui dados de todo o EUA. Os meteorologistas com quem "estava trabalhando" pediram informações diárias sobre temperatura, velocidade do vento e chuvas das estações de La Guardia e JFK referentes a 2023, em ordem decrescente de data e ordem crescente de ID da estação.
 
-Os dados não estavam limpos então utilizei a função *IF* para substituir valores 9999.9, que, segundo a descrição do conjunto de dados, referem-se ao valor padrão quando os dados de temperatura estão faltando, com *NULL* 
+-- Os dados não estavam limpos então utilizei a função *IF* para substituir valores 9999.9, que, segundo a descrição do conjunto de dados, referem-se ao valor padrão quando os dados de temperatura estão faltando, com *NULL* 
+
 ## Utilizando o código contido no arquivo a cima, Retornou a seguinte tabela:
 
 ---
@@ -24,4 +25,24 @@ Os dados não estavam limpos então utilizei a função *IF* para substituir val
 |744860|2023-12-27|43.2|4.0|0.0|
 
 ---
-> OBS: Troxe somente as 10 primeiras linhas, a tabela completa estará em arquivo.
+> OBS: Trouxe somente as 10 primeiras linhas, a tabela completa estará em arquivo.
+
+## Os meteorologistas também fizeram algumas perguntas enquanto se preparavam para as notícias da noite: eles gostariam de saber a temperatura média de junho de 2023 e a velocidade média do vento de dezembro de 2023.
+
+- Utilizei a função AVG e BETWEEN para que retornasse a temperatura média nas estações de JFK e La Guardia entre 1 e 30 de junho de 2023:
+
+|Linha  |avg_temp|
+|------:|-------:|
+|1      |68.74   |
+
+---
+>OBS: O código escrito para a consulta está no arquivo
+
+- Utilizei a função AVG e BETWEEN para que retornasse a velocidade média do vento nas estações de JFK e La Guardia entre 1 e 31 de dezembro de 2023:
+
+|Linha  |avg_temp|
+|------:|-------:|
+|1      |68.74   |
+
+---
+>OBS: O código escrito para a consulta está no arquivo
