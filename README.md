@@ -4,7 +4,7 @@ Nesse cenário, proposto pelo curso **Analisar os dados para responder às pergu
 
 -- Os dados não estavam limpos então utilizei a função *IF* para substituir valores 9999.9, que, segundo a descrição do conjunto de dados, referem-se ao valor padrão quando os dados de temperatura estão faltando, com *NULL* 
 
-## Utilizando o código contido no arquivo a cima, Retornou a seguinte tabela:
+## Utilizando o código contido no [arquivo a cima](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery/blob/main/codigo_da_consulta), retornou a seguinte tabela:
 
 ---
 >Nota:
