@@ -1,4 +1,4 @@
-# ☀️⛈️Informações diárias sobre temperatura, velocidade do vento e chuvas das estações de La Guardia e JFK⛈️☀️
+# 🌄Informações diárias sobre temperatura, velocidade do vento e chuvas das estações de La Guardia e JFK🌄
 
 Nesse cenário, proposto pelo curso **Analisar os dados para responder às perguntas** da trilha **Certificado Profissional Google Data Analytics** fui o analista de dados de uma estação de notícias local. Recebi a tarefa de responder a perguntas para meteorologistas sobre o clima. Trabalhei com dados públicos da Administração Nacional Oceânica e Atmosférica (NOAA, na sigla em inglês), que possui dados de todo o EUA. Os meteorologistas com quem "estava trabalhando" pediram informações diárias sobre temperatura, velocidade do vento e chuvas das estações de La Guardia e JFK referentes a 2023, em ordem decrescente de data e ordem crescente de ID da estação.
 
