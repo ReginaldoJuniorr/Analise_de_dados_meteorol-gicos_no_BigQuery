@@ -36,13 +36,13 @@ Nesse cenário, proposto pelo curso **Analisar os dados para responder às pergu
 |1      |68.74   |
 
 ---
->OBS: O código escrito para a consulta está no arquivo
+>OBS: O código escrito para a consulta está no [arquivo](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery/blob/main/codigo_da_consulta_avg_temp)
 
 - Utilizei a função AVG e BETWEEN para que retornasse a velocidade média do vento nas estações de JFK e La Guardia entre 1 e 31 de dezembro de 2023:
 
-|Linha  |avg_temp|
+|Linha  |avg_max_wind|
 |------:|-------:|
-|1      |68.74   |
+|1      |9.07   |
 
 ---
 >OBS: O código escrito para a consulta está no [arquivo](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery/blob/main/codigo_da_consulta_avg_max_wind)
