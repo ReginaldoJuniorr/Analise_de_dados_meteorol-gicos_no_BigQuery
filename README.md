@@ -80,15 +80,10 @@ ORDER BY date DESC, stn ASC
 **Velocidade Média do Vento - Dezembro de 2023: Da mesma forma, calculei a velocidade média do vento para o mês de dezembro de 2023.**
 ```
 SELECT
-
 AVG(ASwind_speed) AS avg_max_wind,
-
 FROM
-
 `cloudyreginaldo.weather_data.tempo`
-
 WHERE
-
 date BETWEEN '2023-12-01' AND '2023-12-31'
 ```
 
