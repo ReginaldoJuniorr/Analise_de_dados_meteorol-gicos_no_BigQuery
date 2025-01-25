@@ -56,6 +56,11 @@ ORDER BY date DESC, stn ASC
 ---
 > OBS: Trouxe somente as 10 primeiras linhas, a tabela completa estará disponivel para [download aqui](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery/blob/main/resultado_da_consulta.xlsx).
 
+##  Apresentando os dados, os meteorologistas me pediram um **gráfico de colunas com linha**, contendo a média anual sendo as colunas a velocidade média do vento e a média de temperatura, e a linha a precipitação. Utilazando o PowerBI fiz o gráfico a baixo como foi pedido:
+
+[gráfico de colunas com linha.pdf](https://github.com/user-attachments/files/18548383/grafico.de.colunas.com.linha.pdf)
+
+
 ## Os meteorologistas também fizeram algumas perguntas enquanto se preparavam para as notícias da noite: eles gostariam de saber a *temperatura média de junho de 2023* e a *velocidade média do vento de dezembro de 2023*.
 
 **Temperatura Média - Junho de 2023: Utilizei a função AVG combinada com BETWEEN para calcular a temperatura média nas estações de JFK e La Guardia entre 1º e 30 de junho de 2023.**
