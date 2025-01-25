@@ -58,8 +58,7 @@ ORDER BY date DESC, stn ASC
 
 ##  Apresentando os dados, os meteorologistas me pediram um **gráfico de colunas com linha**, contendo a média anual sendo as colunas a velocidade média do vento e a média de temperatura, e a linha a precipitação. Utilazando o PowerBI fiz o gráfico a baixo como foi pedido:
 
-[gráfico de colunas com linha.pdf](https://github.com/user-attachments/files/18548383/grafico.de.colunas.com.linha.pdf)
-
+![Captura de tela 2025-01-25 205709](https://github.com/user-attachments/assets/4864303b-86c5-48ff-b7e1-54af9fc9815b)
 
 ## Os meteorologistas também fizeram algumas perguntas enquanto se preparavam para as notícias da noite: eles gostariam de saber a *temperatura média de junho de 2023* e a *velocidade média do vento de dezembro de 2023*.
 
