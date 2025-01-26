@@ -56,9 +56,13 @@ ORDER BY date DESC, stn ASC
 ---
 > OBS: Trouxe somente as 10 primeiras linhas, a tabela completa estará disponivel para [download aqui](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery/blob/main/resultado_da_consulta.xlsx).
 
-##  Apresentando os dados, os meteorologistas me pediram um **gráfico de colunas com linha**, contendo a média anual sendo as colunas a velocidade média do vento e a média de temperatura, e a linha a precipitação. Utilazando o PowerBI fiz o gráfico a baixo como foi pedido:
+##  Os meteorologistas solicitaram a criação de um gráfico combinado que apresentasse as seguintes informações para análise anual:
 
-![Captura de tela 2025-01-25 205709](https://github.com/user-attachments/assets/4864303b-86c5-48ff-b7e1-54af9fc9815b)
+- Colunas: Velocidade média do vento e temperatura média (em °F).
+- Linha: Precipitação acumulada (em polegadas).
+- Utilizando o Power BI, elaborei o gráfico a seguir:
+
+![grafico_powerbi.png](https://github.com/user-attachments/assets/4864303b-86c5-48ff-b7e1-54af9fc9815b)
 
 ## Os meteorologistas também fizeram algumas perguntas enquanto se preparavam para as notícias da noite: eles gostariam de saber a *temperatura média de junho de 2023* e a *velocidade média do vento de dezembro de 2023*.
 
